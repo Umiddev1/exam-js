@@ -1,0 +1,32 @@
+body {
+  background-color: rgba(0, 0, 255, 0.671);
+}
+.gr {
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+}
+.biggroup {
+  background-color: #fff;
+  width: 500px;
+  padding-bottom: 30px;
+}
+.res {
+  display: flex;
+}
+.boxs {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: tomato;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.text {
+  color: #fff;
+  text-align: center;
+  position: relative;
+}
+.color {
+  color: #fff;
+}

@@ -1,0 +1,38 @@
+.colorgroup {
+  display: flex;
+  justify-content: center;
+  width: 630px;
+  // padding-bottom: 20px;
+  padding-left: 15px;
+  padding-top: 10px;
+  height: 150px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  border-radius: 20px;
+  transform: translate(-50%,-60%);
+  background-color: rgba(17, 17, 17, 0.774);
+  display: none;
+}
+.colorgr {
+  display: flex;
+}
+.box {
+  width: 120px;
+  height: 120px;
+}
+.box:nth-child(1) {
+  background-color: blue;
+}
+.box:nth-child(2) {
+  background-color: green;
+}
+.box:nth-child(3) {
+  background-color: tomato;
+}
+.box:nth-child(4) {
+  background-color: red;
+}
+.box:nth-child(5) {
+  background-color: yellow;
+}
